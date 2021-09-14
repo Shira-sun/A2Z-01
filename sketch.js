@@ -7,7 +7,7 @@ let xoff2 = 1000;
 
 function setup() {
   createCanvas(800, 800);
-  background(200);
+  background(100);
 }
 
 function draw() {
